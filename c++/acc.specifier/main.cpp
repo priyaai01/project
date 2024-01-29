@@ -1,29 +1,28 @@
 #include<iostream>
 using namespace std;
-class shopping
+class school
 {
 private:
-    int orderid;
-
+    int regno;
 public:
-    string profeedback;
-    void orderid(int o)
-
-
+    string name;
+    void regno(int r)
     {
-        ordereid=c;
-        cout<<orderid<<endl;
-
+        regno=r;
+        cout<<regno<<endl;
     }
-    int profeedback()
+    int  stdentname()
     {
-        cout<<"feedback"<<feedback<<endl;
+        cout<<"name:"<<name<<endl;
     }
+
+
 };
 int main()
 {
-    shopping sp;
-    sp.profeedback(50);
-    sp.orderid();
-    return 0;
+    school scl;
+    scl.regno(50);
+    scl.studentname(
+                    );
+    return0;
 }
