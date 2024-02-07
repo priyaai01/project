@@ -5,6 +5,8 @@ if(a=="died"):
 else:
     print("gowtham weeds aishu")'''
 
+
+
 '''a=int(input())
 b=int(input())
 c=int(input())
@@ -14,6 +16,8 @@ e=a*b*c
 print("Multi value",e)
 f=d/b
 print("Div value",f)'''
+
+
 
 mark=int(input("school mark"))
 
