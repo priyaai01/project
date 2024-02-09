@@ -19,12 +19,15 @@ print("Div value",f)'''
 
 
 
-mark=int(input("school mark"))
+'''mark=int(input("school mark"))
 
 if(mark>35):
     print("pass")
 else:
-    print("fail")
+    print("fail")'''
+
+
+
 
 
 
