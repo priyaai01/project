@@ -1,4 +1,4 @@
-class cartoon():
+class doremon():
     def __init__(self):
         print("The cartoon charecters")
     def welcome(self):
@@ -43,8 +43,8 @@ class shizuka():
         print("she is nobita girl friend")
 
 
-c=cartoon()
-c.welcome()
+d=doremon()
+d.welcome()
 n=nobita()
 g=gian()
 
